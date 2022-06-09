@@ -1,0 +1,15 @@
+:root {
+  --white: #ffffff;
+  --gray: #c0c0c0;
+  --blue: #167bf7;
+  --black: #00030c;
+  --font: 'Inter';
+}
+
+body {
+  background-color: var(--black);
+  color: var(--white);
+  font-family: var(--font);
+  font-size: 16px;
+  font-weight: 400;
+}
