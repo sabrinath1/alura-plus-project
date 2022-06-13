@@ -1,3 +1,28 @@
+.session__whatch {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+}
 .secondary__imagem {
-  width: 80%;
+  width: 30%;
+  margin-left: 1em;
+}
+.container__descrition {
+  margin-right: 10em;
+}
+.descrition__title {
+  width: 588px;
+  height: 58px;
+  font-weight: 700;
+  font-size: 48px;
+  color: var(--white);
+}
+.descrition__paragraph {
+  width: 588px;
+  height: 48px;
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--gray);
 }
