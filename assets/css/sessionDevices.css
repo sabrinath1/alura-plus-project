@@ -1,0 +1,20 @@
+.devices {
+  display: flex;
+  justify-content: center;
+  margin: 5em 0;
+}
+.session__device {
+  text-align: center;
+  margin-top: 130px;
+}
+.title__devices {
+  height: 58px;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 120%;
+  text-align: center;
+}
+.title {
+  font-weight: 700;
+  font-size: 32px;
+}
